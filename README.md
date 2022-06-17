@@ -1,5 +1,14 @@
-Halo semua saya owner Zuikaku 👋
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/107407421/174320300-c5014436-8f30-4ee6-8507-8b6d9b8f2658.jpg" />
+</p> 
 
-<a href="https://github.com/JuliaZuikaku"><img src="https://cardivo.vercel.app/api?name=Zuikaku X Julian&description=nama saya Zuikaku atau julian kalian panggil zui aja, nice to meet you 🤗&image=https://telegra.ph/file/ed17e89ffede552936ebc.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=lionsuzunee_&github=Zuikaku X Julian&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
-[<img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/62887433094409)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/lionsuzunee)
+• halo guys namaku julian asli bukan hero ml bro:v sesat gw owner zuikaku bareng bot elysia bot salam kenal semua ^^
+
+</p> 
+
+------
+
+------ 
+
+
+
